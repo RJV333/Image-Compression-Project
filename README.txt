@@ -18,7 +18,7 @@
  *    All portions of the assignment were completed using pair programming.
  *   
  *TIME SPENT
- *    Approximately 35 hours were spent on the assignment with several hours
+ *    Approximately 25 hours were spent on the assignment with several hours
  *  of independent thought and research as well for each of us
  *
  *
